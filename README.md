@@ -13,6 +13,7 @@ Mainpage
 aboutme
 ---
 스크롤 해서 좀 내리면 자기소개
+crazy learning rate
 
 Skills
 ---
