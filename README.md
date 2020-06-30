@@ -13,7 +13,16 @@ Mainpage
 aboutme
 ---
 스크롤 해서 좀 내리면 자기소개
-crazy learning rate
+crazy learning rate(미친학습속도)
+- 전자공->컴공
+- 웹수업
+- 서버개발
+- CPP시뮬레이터
+- 취업
+
+죽거나 끝장내거나
+- A+ list
+- 처음하는 것 잘함 
 
 Skills
 ---
